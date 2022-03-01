@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Highness Prince Rupert's letter to the Earl of Arlington his Majesties principal secretary of state. from on board the Soveraign now under sail, June 5. about seven leagues off Lastoff, at nine in the morning, the wind at E. N. E.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05077</idno>
+            <idno type="STC">Wing R2303A</idno>
+            <idno type="STC">ESTC R182891</idno>
+            <idno type="EEBO-CITATION">52614931</idno>
+            <idno type="OCLC">ocm 52614931</idno>
+            <idno type="VID">176070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176070)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Highness Prince Rupert's letter to the Earl of Arlington his Majesties principal secretary of state. from on board the Soveraign now under sail, June 5. about seven leagues off Lastoff, at nine in the morning, the wind at E. N. E.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Benjamin Tooke ... and are to be sold by Joseph Wilde ...,</publisher>
+                  <pubPlace>Re-printed at Dublin</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arlington, Henry Bennet, --  Earl of, 1618-1685.</term>
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>Schooneveld, Battle of, 1673 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176070:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <p>HIS HIGHNESS Prince Rupert's LETTER TO THE Earl of Arlington HIS MAJESTIES Principal Secretary of State. From on Board the SOVERAIGN Now, under Sail, <hi>June</hi> 5. About Seven Leagues off <hi>Laſtoff,</hi> at Nine in the Morning, the Wind at E. N. E,</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>Re-printed at <hi>Dublin</hi> by <hi>Benjamin Tooke,</hi> Printer to the King's Moſt Excellent Majeſty; And are to be ſold by <hi>Joſeph Wilde</hi> Book-ſeller in <hi>Caſtle-ſtreet.</hi> 1673.</p>
+            <pb facs="tcp:176070:2"/>
+            <!-- PDF PAGE 34 -->
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:176070:2"/>
+            <!-- PDF PAGE 34 -->
+            <head>His Highneſs Prince <hi>Rupert's</hi> Letter to the Earl of Arlington, His Majeſties Principal Secretary of State, from on Board the <hi>Sovereign,</hi> now under Sail, <hi>June 5.</hi> about Seven Leagues off Laſtoff, at Nine in the Morning the Wind <hi>E. N. E.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N My Laſt I gave an Account that the Enemy lay in the <hi>Schonevelt</hi> and that we were at an Ankor, ſeven Leagues from <hi>Eaſt Capel,</hi> which bore S. b. E. from us; Now I have to tell you of a Second Engagement with them, which happened upon <hi>June</hi> the fourth. The Enemy having had the Oportunity by lying ſo Near their own Coaſt, to Refit and Furniſh themſelves with all things they wanted, and knowing very well, that as the Wind has ſtood of late, we could not do the like, were Encouraged to come out upon us, as they did that day afternoon, having the Advan<g ref="char:EOLhyphen"/>tage of a ſtrong Gale at <hi>N. E.</hi> which we quickly perceived, and got under Sayl, ſtanding <hi>N. N. W.</hi> having Our Larboard tacks on Board; and as cloſe haled upon the Wind as we could lye, ſtood to Receive them. About four in the Afternoon, <hi>Van
+<pb n="4" facs="tcp:176070:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 35 -->Trump</hi> with the <hi>Amſterdam</hi> Squadron bore down, and began to Engage with the Blew, According to their uſual Cuſtom, Begining to Fire at a great diſtance; About five <hi>de Ruyter</hi> with his Squadron Engaged with me, And the <hi>Zealand</hi> Squadron with the White; At his firſt coming <hi>de Ruyter</hi> made a ſhow as if he would have come very near me, but before he was within Musket ſhot, He ſprung his Luff, And cloſed his Wind as much as poſſibly he could, Going off on a ſuddain for good and all, which made us ſuppoſe, He had either ſome Extraordinary Damage in his ſhip, Or that himſelf was hurt<g ref="char:punc">▪</g> Their whole Fleet continued Pelting at us, at a great diſtance till dark night, We keeping our Ground not withſtanding their Fire<g ref="char:EOLhyphen"/>ſhips. About Midnight part of the Dutch Fleet Tacked, Standing towards the <hi>E.</hi> Southerly, And quickly after the reſt did the like, As we gueſſed by an impefect ſight we had of them; And at ſome diſtance.</p>
+            <p>At Two in the Morning we Tack'd alſo, And ſtood after them; At Six, Seeing no likelihood of reaching them before they would get within their Sands, we thought it to no purpoſe to purſue them any farther; ſo we Tack'd again, And ſtood for our own Coaſt. All we can ſay more of the Ene<g ref="char:EOLhyphen"/>my, is That they went off in great diſorder, leav<g ref="char:EOLhyphen"/>ing us ignorant of what loſs they have ſuſtained. On our ſide we loſt never a Ship, and very few men; of our Commanders, Captain <hi>White</hi> of the <hi>Warſpit,</hi> and Captain <hi>Sadlington</hi> of the <hi>Crown,</hi> were killed; of the Foot-Officers, Captain <hi>Henſhaw,</hi> and Lieu<g ref="char:EOLhyphen"/>tenant <hi>Fitzgerald</hi> were killed, and Lieutenant <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ufton</hi> was wounded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
